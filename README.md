@@ -1,6 +1,7 @@
 ### ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Tamara Contreras, un apasionado desarrollador con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona explorar nuevas tecnologías y encontrar soluciones creativas a los desafíos de programación.
+¡Bienvenido a mi perfil de GitHub! Soy Tamara Contreras, una apasionada desarrolladora con experiencia en el desarrollo de aplicaciones web y móviles.
+Me apasiona explorar nuevas tecnologías y encontrar soluciones creativas a los desafíos de programación.
 
 ### Proyectos Actuales 🔭
 
@@ -21,7 +22,7 @@ No dudes en preguntarme sobre cualquier cosa relacionada con desarrollo web o te
 
 ### Otros Datos 😄⚡
 
-- **Pronombres:** Ella/Ella
+- **Pronombres:** She / Ella
 - **Dato curioso:** En mi tiempo libre, me encanta explorar la naturaleza y escuchar música.
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y que podamos conectar pronto.
