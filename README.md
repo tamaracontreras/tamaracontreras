@@ -22,7 +22,7 @@ Por favor, no dudes en contactarme si tienes algún proyecto en mente en el que 
 
 ### Preguntas y Contacto 💬
 
-[tacs.laboral@gmail.com](mailto:tacs.laboral@gmail.com)
+[tacs.laboral@gmail.com](mailto:tacs.laboral@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tamara-contreras/) 
 
 
