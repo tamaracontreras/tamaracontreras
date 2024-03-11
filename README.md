@@ -6,7 +6,7 @@
 
 ### Proyectos Actuales 🔭
 
-Actualmente me encuentro inmerso en un proyecto de desarrollo web utilizando React.js
+Actualmente me encuentro inmersa en un proyecto de desarrollo web utilizando React.js
 
 ### Aprendizaje Continuo 🌱
 
