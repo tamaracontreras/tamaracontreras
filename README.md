@@ -38,6 +38,3 @@ Por favor, no dudes en contactarme si tienes algún proyecto en mente en el que 
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y que podamos conectar pronto.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
