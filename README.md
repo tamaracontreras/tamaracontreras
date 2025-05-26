@@ -20,8 +20,8 @@ Landing page desarrollada para ofrecer servicios de desarrollo web, diseño UX/U
  como HTML, CSS, JavaScript, React y Tailwind, con despliegue de proyectos en GitHub Pages, Vercel y Netlify. He 
  trabajado en entornos colaborativos ágiles como No Country, desarrollando interfaces funcionales y escalables. 
  Además, administro mi propia tienda online en Shopify, integrando pasarelas de pago y personalizando la experiencia 
- de usuario. Manejo herramientas de diseño como Figma y Canva, y he implementado formularios funcionales con 
- EmailJS. Soy autodidacta, resolutiva y cuento con comprensión lectora y auditiva de inglés técnico. 
+ de usuario. Manejo herramientas de diseño como Figma y Canva.
+ Soy autodidacta, resolutiva y cuento con comprensión lectora y auditiva de inglés técnico. 
 
 
 ### Colaboración 👯
