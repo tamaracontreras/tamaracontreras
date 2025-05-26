@@ -6,15 +6,22 @@
 
 ### Proyectos Actuales 🔭
 
-Actualmente me encuentro inmersa en un proyecto de desarrollo web utilizando React.js
+🛍️ Nómades Tienda – E-commerce en Shopify
+Tienda online autoadministrable enfocada en accesorios y ropa con identidad propia. Desarrollada en Shopify con diseño personalizado, integración de pasarelas de pago, gestión de inventario, SEO básico y estrategia visual.
+🔗 www.nomadestienda.cl
+
+💻 Portafolio de Servicios Web – Landing Page Profesional
+Landing page desarrollada para ofrecer servicios de desarrollo web, diseño UX/UI y mantenimiento de sitios. Incluye formularios funcionales con EmailJS, diseño responsive y despliegue en Netlify.
+🔗 https://desarrollowebpro.netlify.app
 
 ### Aprendizaje Continuo 🌱
 
-Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades. Actualmente, mi enfoque principal está en el desarrollo del front-end, donde estoy profundizando mis conocimientos en librerías de JavaScript, diseño de interfaces centradas en la experiencia del usuario y técnicas de optimización de rendimiento.
-
-Además, me apasiona explorar la creatividad en el diseño web. Me fascina la idea de utilizar tecnologías como Three.js para desarrollar páginas web innovadoras y creativas. Me encantaría colaborar en el diseño de sitios web que no solo sean visualmente atractivos, sino también intuitivos y cautivadores, brindando una experiencia memorable al usuario.
-
-Me inspira especialmente el diseño de páginas web que ofrecen experiencias visuales únicas y sorprendentes. En el futuro, tengo el interés de aprender p5.js, una biblioteca de JavaScript para la creatividad y la visualización de datos.
+ Desarrolladora Full Stack con experiencia en desarrollo frontend, diseño UX/UI y e-commerce. Manejo tecnologías 
+ como HTML, CSS, JavaScript, React y Tailwind, con despliegue de proyectos en GitHub Pages, Vercel y Netlify. He 
+ trabajado en entornos colaborativos ágiles como No Country, desarrollando interfaces funcionales y escalables. 
+ Además, administro mi propia tienda online en Shopify, integrando pasarelas de pago y personalizando la experiencia 
+ de usuario. Manejo herramientas de diseño como Figma y Canva, y he implementado formularios funcionales con 
+ EmailJS. Soy autodidacta, resolutiva y cuento con comprensión lectora y auditiva de inglés técnico. 
 
 
 ### Colaboración 👯
