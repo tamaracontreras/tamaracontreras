@@ -11,8 +11,8 @@ Tienda online autoadministrable enfocada en accesorios y ropa con identidad prop
 🔗 www.nomadestienda.cl
 
 💻 Portafolio de Servicios Web – Landing Page Profesional
-Landing page desarrollada para ofrecer servicios de desarrollo web, diseño UX/UI y mantenimiento de sitios. Incluye formularios funcionales con EmailJS, diseño responsive y despliegue en Netlify.
-🔗 https://desarrollowebpro.netlify.app
+Landing page desarrollada para ofrecer servicios de desarrollo web, diseño UX/UI y mantenimiento de sitios. 
+🔗 www.desarrollowebpro.cl
 
 ### Aprendizaje Continuo 🌱
 
