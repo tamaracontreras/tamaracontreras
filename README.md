@@ -16,12 +16,8 @@ Landing page desarrollada para ofrecer servicios de desarrollo web, diseño UX/U
 
 ### Aprendizaje Continuo 🌱
 
- Desarrolladora Full Stack con experiencia en desarrollo frontend, diseño UX/UI y e-commerce. Manejo tecnologías 
- como HTML, CSS, JavaScript, React y Tailwind, con despliegue de proyectos en GitHub Pages, Vercel y Netlify. He 
- trabajado en entornos colaborativos ágiles como No Country, desarrollando interfaces funcionales y escalables. 
- Además, administro mi propia tienda online en Shopify, integrando pasarelas de pago y personalizando la experiencia 
- de usuario. Manejo herramientas de diseño como Figma y Canva.
- Soy autodidacta, resolutiva y cuento con comprensión lectora y auditiva de inglés técnico. 
+ 
+Desarrolladora Full Stack con experiencia en desarrollo frontend, diseño UX/UI y e-commerce. Proficiente en tecnologías como HTML, CSS, JavaScript, React y Tailwind, con despliegue de proyectos en GitHub Pages, Vercel y Netlify. He trabajado en entornos colaborativos ágiles como No Country, desarrollando interfaces funcionales y escalables.Además, administro mi propia tienda online en Shopify , integrando pasarelas de pago y personalizando la experiencia de usuario. Manejo herramientas de diseño como Figma y Canva. Soy autodidacta, resolutiva, inglés intermedio nivel c1.
 
 
 ### Colaboración 👯
